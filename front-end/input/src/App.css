@@ -1,0 +1,30 @@
+.fir input{
+    text-align: center;
+
+    margin-left: 35%;
+    margin-top: 4%;
+    width: 30vw;
+    height: 5vh;
+    border-radius: 10px;
+
+
+
+}
+
+.fir{
+margin-top: 3%;
+background-color: rgb(75, 86, 86);
+width: 100%;
+height: 20vh;
+/* margin-left: 30%; */
+column-gap: 5%;
+border-radius: 10px;
+}
+
+.fir button{
+    margin-left: 7%;
+    width: 5vw;
+    height: 4vh;
+    border-radius: 10px;
+
+}
